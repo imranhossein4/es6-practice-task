@@ -43,4 +43,5 @@ function addNumber(a, b, c = 7) {
     return a + b + c;
 }
 const addingNumber = addNumber(5, 9);
-console.log(addingNumber);
+// console.log(addingNumber);
+
